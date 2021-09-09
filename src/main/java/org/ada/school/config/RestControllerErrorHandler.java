@@ -1,3 +1,4 @@
+  
 package org.ada.school.config;
 
 import org.ada.school.error.InternalServerErrorException;
