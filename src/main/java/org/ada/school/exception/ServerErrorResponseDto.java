@@ -1,3 +1,4 @@
+  
 package org.ada.school.exception;
 
 import org.ada.school.error.ErrorCodeEnum;
